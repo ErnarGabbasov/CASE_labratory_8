@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Учёт\Учёт\bin\x64\Release\Учёт пациентов.mdb
+C:\Users\User\source\repos\Учёт\Учёт\bin\x64\Release\Учёт.exe.config
+C:\Users\User\source\repos\Учёт\Учёт\bin\x64\Release\Учёт.exe
+C:\Users\User\source\repos\Учёт\Учёт\bin\x64\Release\Учёт.pdb
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.Form1.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.Pac.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.Properties.Resources.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.exe
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.pdb
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.AddForm.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.About.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.SearchDoctor.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.Doctor.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.Dr.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.AddZapis.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.SearchPacient.resources
+C:\Users\User\source\repos\Учёт\Учёт\obj\x64\Release\Учёт.ZapisForm.resources
